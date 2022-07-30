@@ -17,9 +17,9 @@ minimal: true              # use a dark header
 
 navigation:                # accepts {file, title, url, icon, sidebaricon}
   - {title: "About", file: "index.html"}
-  - {title: "Posts", file: "/blog.md"}
-  - {title: "Music", file: "/music.md"}
-  - {title: "Graphics", file: "/graphics.md"}
+  - {title: "Posts", file: "blog.md"}
+  - {title: "Music", file: "music.md"}
+  - {title: "Graphics", file: "graphics.md"}
 
 external:                  # shows a footer with social links - for available icons see fontawesome.com/icons
   - {title: Github, icon: github, url: "https://github.com/tonepaintingzack/"}
