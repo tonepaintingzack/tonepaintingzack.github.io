@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "About"
+title: ""
 ---
 
 I am a nomad, musician, and engineer exploring smooth space through virtual synthesis.
