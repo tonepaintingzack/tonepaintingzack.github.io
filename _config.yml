@@ -1,5 +1,5 @@
 title: "Tonepainting"
-author: "Zack 2"
+author: "Zack"
 description: "I am a nomad, musician, and engineer exploring smooth space through virtual synthesis."
 permalink: /:title/
 lang: "en"
@@ -26,7 +26,7 @@ external:                  # shows a footer with social links - for available ic
   - {title: Soundcloud, icon: soundcloud, url: "https://soundcloud.com/notdisclosure/"}
   - {title: Bandcamp, icon: bandcamp, url: "https://bandcamp.com/tonepainting/"}
   - {title: Spotify, icon: spotify, url: "https://open.spotify.com/user/1239308235/"}
-  - {title: Goodreads, icon: goodreads, url: "https://www.goodreads.com/panopticamgirl/")
+  - {title: Goodreads, icon: goodreads, url: "https://www.goodreads.com/panopticamgirl/"}
 
 comments:
 #  disqus_shortname: ""    # see https://disqus.com/
