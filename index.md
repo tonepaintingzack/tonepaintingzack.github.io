@@ -9,4 +9,4 @@ I have over a decade of experience in music production and sound design. At this
 
 Aside from music, I also enjoy literature and philosophy. I've presented and sat on panels at the [University of St Francis Writers' Conference](https://www.stfrancis.edu/sfwc/) on a few occasions. I also have experience in graphic design and [programming lighting for live performance.](https://www.youtube.com/watch?v=veyInHEq7WU)
 
-Currently I am living a [nomadic life](https://www.instagram.com/p/CaP2nxClPP6/) traveling across the United States, but occasionally you can find me [residing in lovely Chicago.](https://www.instagram.com/p/CW_fPlXPsZ3/)
+Currently, I am living a [nomadic life](https://www.instagram.com/p/CaP2nxClPP6/) traveling across the United States, but occasionally you can find me [residing in lovely Chicago.](https://www.instagram.com/p/CW_fPlXPsZ3/)
